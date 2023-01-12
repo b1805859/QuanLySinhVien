@@ -1,0 +1,11 @@
+D:\Net\mvc\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Net\mvc\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Net\mvc\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Net\mvc\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Net\mvc\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+D:\Net\mvc\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+D:\Net\mvc\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Net\mvc\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Net\mvc\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Net\mvc\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Net\mvc\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
